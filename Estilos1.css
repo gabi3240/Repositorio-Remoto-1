@@ -11,7 +11,7 @@ a {
 .padre {
   display: flex;
   flex-flow: column nowrap;
-  background-color: rgb(71, 42, 235);
+  background-color: rgb(113, 233, 113);
   opacity: 0.8;
 }
 
